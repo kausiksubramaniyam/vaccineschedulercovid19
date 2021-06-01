@@ -7,3 +7,4 @@ You would be entering your year of brith , using which the program calculates yo
 The vaccination center details such as the no. of vaccines available and type of vaccine available are also shown.
 You can select whichever is comfortable and confirm your appointment.
 It also has a link to the CoWin website, which is the official wbesite for vaccine registration by the Central Government of India.
+![image](https://user-images.githubusercontent.com/59435311/120312711-b3d8b800-c2f6-11eb-81ce-ba25e23399c1.png)
