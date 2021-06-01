@@ -7,4 +7,13 @@ You would be entering your year of brith , using which the program calculates yo
 The vaccination center details such as the no. of vaccines available and type of vaccine available are also shown.
 You can select whichever is comfortable and confirm your appointment.
 It also has a link to the CoWin website, which is the official wbesite for vaccine registration by the Central Government of India.
+ 
+This focuses on detialed styling, which uses lots of internal CSS to create a vibrant page in dark mode.
+
+Main Page/Registration Page:
+
 ![image](https://user-images.githubusercontent.com/59435311/120312711-b3d8b800-c2f6-11eb-81ce-ba25e23399c1.png)
+
+Vaccination Center Selection Page:
+
+![image](https://user-images.githubusercontent.com/59435311/120313273-601a9e80-c2f7-11eb-8d4b-54a9b705142e.png)
